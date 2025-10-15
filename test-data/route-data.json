@@ -1,0 +1,36 @@
+{
+  "fullRoute": {
+    "zoneId": "908",
+    "blockId": "969",
+    "geoAreaCode": "583",
+    "premiseType": "303",
+    "tariffCodeId": "686",
+    "commissionRate": "10",
+    "endUserCount": "20",
+    "fitUnitCount": "30",
+    "supplyByAccountType": "34",
+    "billingCompany": "7",
+    "consumerNo": "125427",
+    "depositAmount": "100",
+    "installationAmount": "200",
+    "meterPurchaseAmount": "300",
+    "stampingFee": "400",
+    "remark": "new route",
+    "salesPerson": "Abhishek",
+    "jdeConsNum": "100",
+    "gstPercentage": "200",
+    "chargeCode": "69",
+    "calcType": "7",
+    "calcValue": "12",
+    "minQty": "20"
+  },
+  "minimalRoute": {
+    "zoneId": "908",
+    "blockId": "969",
+    "tariffCodeId": "685",
+    "supplyByAccountType": "34"
+  },
+  "discount": {
+    "discount": "50"
+  }
+}
