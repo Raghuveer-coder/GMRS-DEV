@@ -13,6 +13,7 @@ test.describe('Tariff Management', () => {
     tariffPage = new TariffPage(page);
 
     await loginPage.navigate();
+    //new changes test 
     await loginPage.login();
   }); 
 
