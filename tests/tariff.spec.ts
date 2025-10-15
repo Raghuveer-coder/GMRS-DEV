@@ -25,6 +25,8 @@ test.describe('Tariff Management', () => {
     await test.step('Attempt to create a new tariff code and verify validation', async () => {
       await tariffPage.createTariffCode(tariffData.newTariffCode);
       await expect(tariffPage.validationMessage).toBeVisible();
+
+      //new test1
     });
     
   });

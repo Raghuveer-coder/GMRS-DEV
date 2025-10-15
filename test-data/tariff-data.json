@@ -1,7 +1,6 @@
 {
   "newTariffCode": {
     "suspectBillConsLimit": "1200",
-    "lowBillWarnPercentage": "50",
-    "highBillWarnPercentage": "400"
+    "lowBillWarnPercentage": "50"
   }
 }
